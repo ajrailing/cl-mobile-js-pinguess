@@ -11,13 +11,13 @@ function leftPad(number, targetLength) {
 }
 
 function check(combo){
-	
+	// A comment
 }
 
 var found = false;
 var count = 0;
 while(!found && count < 10000){
-	
+
 }
 
 if (found) {
